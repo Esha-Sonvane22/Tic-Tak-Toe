@@ -5,13 +5,6 @@ This is a simple **Tic Tac Toe desktop game** built with **Python's Tkinter GUI 
 
 ---
 
-## 🖼️ Demo Screenshot
-
-> *(Insert your screenshot here after uploading it to your repo)*  
-> ![Tic Tac Toe GUI](screenshot.png)
-
----
-
 ## 🚀 Features
 
 - ✅ User-friendly GUI with Python Tkinter
